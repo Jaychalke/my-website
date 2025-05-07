@@ -13,7 +13,7 @@
   <h1>Hi Lisa!</h1>
   <p>Let's do this!.</p>
   <p> This is a test </p>
-  <img src="images/Upside_down_gray_cat.jpeg" alt="Upside Down Cat" class="cat-img">
+  <img src="images/Upside_down_gray_cat.jpeg" alt='Upside Down Cat' class='cat-img'>
 
 </body>
 </html>
