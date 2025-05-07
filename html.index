@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+
+<html>
+
 <head>
   <meta charset="UTF-8">
   <title>My Simple Page</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-<link rel="stylesheet" href="style.css">
+
 <body>
 
   <h1>Hi Lisa!</h1>
   <p>Let's do this!.</p>
   <p> This is a test </p>
-
   <img src="images/Upside_down_gray_cat.jpeg" alt="Upside Down Cat">
 
 </body>
