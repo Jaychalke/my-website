@@ -1,19 +1,20 @@
 <!DOCTYPE html>
-
 <html>
-
-<head>
-  <meta charset="UTF-8">
-  <title>My Simple Page</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-  <h1>Hi Lisa!</h1>
-  <p>Let's do this!.</p>
-  <p> This is a test </p>
-  <img src="images/Upside_down_gray_cat.jpeg" alt='Upside Down Cat' class='cat-img'>
-
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>JaychalkeGaming</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+      <div class="container">
+          <h1 class="glitch">Connect with Me</h1>
+          <div class="button-grid">
+              <a href="https://trovo.live/s/Jaychalke/233679120" class="btn-trovo" target="_blank">Trovo</a>
+              <a href="https://twitch.tv/jaychalke" class="btn-twitch" target="_blank">Twitch</a>
+              <a href="https://kick.com/jaychalke" class="btn-kick" target="_blank">Kick</a>
+              <a href="https://www.youtube.com/@JaychalkeGaming" class="btn-youtube" target="_blank">YouTube</a>
+              <a href="https://tiktok.com/@jaychalkegaming" class="btn-tiktok" target="_blank">TikTok</a>
+          </div>
+      </div>
+  </body>
 </html>
